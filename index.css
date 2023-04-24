@@ -1,0 +1,13 @@
+#f-1{
+    width: max-content; 
+    border: green solid;
+}
+
+#f-1 > legend {
+    color: green;
+    font-weight: bold;
+}
+
+#f-1 > input , div {
+    margin-top: 10px;
+}
